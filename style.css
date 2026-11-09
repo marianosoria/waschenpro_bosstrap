@@ -1,0 +1,7 @@
+.tarjeta-servicio {
+    transition: transform 0.3s ease;
+}
+
+.tarjeta-servicio:hover {
+    transform: translateY(-10px);
+}
